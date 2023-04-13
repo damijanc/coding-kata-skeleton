@@ -2,6 +2,8 @@
 
 This is a simple skeleton to use when running the tests. Perfect for practicing coding Katas.
 
+Current setup is docker with typescript and codeception (PHP) setup. In the future there might be more.
+
 # Running tests
 
 ## Docker setup
